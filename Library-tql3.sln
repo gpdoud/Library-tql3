@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library-tql3", "Library-tql3\Library-tql3.csproj", "{AD351036-1D9C-40E3-B48B-8E5D36B744BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibrary", "MyLibrary\MyLibrary.csproj", "{303ACBE4-C0C2-45B7-BB5A-5641D7AA6401}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD351036-1D9C-40E3-B48B-8E5D36B744BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD351036-1D9C-40E3-B48B-8E5D36B744BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD351036-1D9C-40E3-B48B-8E5D36B744BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD351036-1D9C-40E3-B48B-8E5D36B744BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{303ACBE4-C0C2-45B7-BB5A-5641D7AA6401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{303ACBE4-C0C2-45B7-BB5A-5641D7AA6401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{303ACBE4-C0C2-45B7-BB5A-5641D7AA6401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{303ACBE4-C0C2-45B7-BB5A-5641D7AA6401}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EB7F930-20B5-4AEA-9A31-B32F3441B444}
+	EndGlobalSection
+EndGlobal
